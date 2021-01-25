@@ -1,7 +1,8 @@
-        $gic Hash Finder
+
+## PHP7 Magic Hash Finder
   - Php magic hash vulnerability
-  - PHP 7
- 
+    - PHP 7
+	 
 ### Magic hash vulnerability 
 you can check this vulnerability : [magic]
 
